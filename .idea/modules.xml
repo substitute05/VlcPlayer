@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VlcPlayer-master.iml" filepath="$PROJECT_DIR$/.idea/modules/VlcPlayer-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/demo.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer/ijkplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer/ijkplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vlcplayer/vlcplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/vlcplayer/vlcplayer.iml" />
+    </modules>
+  </component>
+</project>
